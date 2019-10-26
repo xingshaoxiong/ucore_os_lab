@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.cStandard": "c99",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "files.associations": {
+        "stdio.h": "c",
+        "error.h": "c",
+        "string.h": "c",
+        "x86.h": "c"
+    }
+}
