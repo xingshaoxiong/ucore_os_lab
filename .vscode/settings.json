@@ -5,6 +5,12 @@
         "stdio.h": "c",
         "error.h": "c",
         "string.h": "c",
-        "x86.h": "c"
+        "x86.h": "c",
+        "array": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp"
     }
 }
