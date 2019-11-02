@@ -94,5 +94,6 @@ static inline ppn_t
 page2ppn(struct Page *page) {
     return page - pages;
 }
-‵‵‵
+
+```
 如果希望虚拟地址和物理地址相同，需要修改KERNBASE为0x00000000，然后虚拟地址也要减去0xC0000000
